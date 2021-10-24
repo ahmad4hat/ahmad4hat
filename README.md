@@ -1,4 +1,4 @@
-### Hi there 👋,This is Ahmad4hat's github profile 
+# This is Ahmad Farhat
 
 
 
@@ -10,5 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ¯\_(ツ)_/¯  
 
-Open to Work 
+[farhat.dev](https://farhat.dev/)
+
+[Ecommarce Project built via NEXT.js](https://next-ecommerce-kappa-sage.vercel.app/)
+
+## Open to Work 
 
